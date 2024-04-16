@@ -1988,7 +1988,7 @@ progress {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #272d2f;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
@@ -2514,7 +2514,7 @@ textarea.form-control-lg {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #1f2528;
   text-align: center;
   white-space: nowrap;
   background-color: #e9ecef;
