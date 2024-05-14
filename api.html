@@ -85,15 +85,15 @@
             console.log(data[0].author.name);
             console.log(data[0].title);
 
-
+            for(var i=0;i<data.length;i++){
             var h5 ="<div className='col-4>"
                +"<div className='card' style='width: 18rem;'>"
                +"  <img src='"+data[0].src+"'"
-               +"         className="card-img-top" alt="...">"
+               +"         className='card-img-top'
                +"</div>"
                +"</div>" ;
 
-
+            $("#mydata").append(h5);
 
 
 
