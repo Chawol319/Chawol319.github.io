@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="by" />
+    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="試試">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <workItem from="1718811072239" duration="17000" />
       <workItem from="1718881665352" duration="17000" />
       <workItem from="1719032573567" duration="2627000" />
-      <workItem from="1719035245813" duration="3687000" />
+      <workItem from="1719035245813" duration="6391000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -152,7 +154,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719038774413</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="by">
+      <option name="closed" value="true" />
+      <created>1719039266002</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719039266002</updated>
+    </task>
+    <task id="LOCAL-00013" summary="試試">
+      <option name="closed" value="true" />
+      <created>1719041489179</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719041489179</updated>
+    </task>
+    <task id="LOCAL-00014" summary="試試">
+      <option name="closed" value="true" />
+      <created>1719041600365</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719041600365</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +191,7 @@
     <MESSAGE value="打掉重弄" />
     <MESSAGE value="打掉重弄2" />
     <MESSAGE value="by" />
-    <option name="LAST_COMMIT_MESSAGE" value="by" />
+    <MESSAGE value="試試" />
+    <option name="LAST_COMMIT_MESSAGE" value="試試" />
   </component>
 </project>
