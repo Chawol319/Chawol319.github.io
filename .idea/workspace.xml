@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="QAQ1">
-      <change afterPath="$PROJECT_DIR$/assets/imgggg/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgggg/IMG_20240531_082344.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgggg/IMG_20240610_173903.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="QAQ">
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
       <workItem from="1719032573567" duration="2627000" />
       <workItem from="1719035245813" duration="11927000" />
       <workItem from="1719048524703" duration="25000" />
-      <workItem from="1719048628068" duration="3644000" />
+      <workItem from="1719048628068" duration="4475000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -300,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719050332316</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="QAQ">
+      <option name="closed" value="true" />
+      <created>1719052495057</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1719052495057</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,9 +322,9 @@
     <MESSAGE value="試試3" />
     <MESSAGE value="A?" />
     <MESSAGE value="A" />
-    <MESSAGE value="QAQ" />
     <MESSAGE value="QAQ 2" />
     <MESSAGE value="QAQ1" />
-    <option name="LAST_COMMIT_MESSAGE" value="QAQ1" />
+    <MESSAGE value="QAQ" />
+    <option name="LAST_COMMIT_MESSAGE" value="QAQ" />
   </component>
 </project>
