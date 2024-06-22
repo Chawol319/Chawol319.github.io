@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="QAQ1" />
+    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="QAQ">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +39,13 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/Desktop/Chawol319.github.io",
+    "last_opened_file_path": "C:/Users/user/Desktop/新增資料夾",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,7 +70,10 @@
       <workItem from="1719032573567" duration="2627000" />
       <workItem from="1719035245813" duration="11927000" />
       <workItem from="1719048524703" duration="25000" />
-      <workItem from="1719048628068" duration="1344000" />
+      <workItem from="1719048628068" duration="5690000" />
+      <workItem from="1719054609503" duration="57000" />
+      <workItem from="1719054670809" duration="775000" />
+      <workItem from="1719055473556" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -278,7 +283,47 @@
       <option name="project" value="LOCAL" />
       <updated>1719049964130</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="QAQ1">
+      <option name="closed" value="true" />
+      <created>1719050022704</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719050022704</updated>
+    </task>
+    <task id="LOCAL-00028" summary="QAQ1">
+      <option name="closed" value="true" />
+      <created>1719050332316</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719050332316</updated>
+    </task>
+    <task id="LOCAL-00029" summary="QAQ">
+      <option name="closed" value="true" />
+      <created>1719052495057</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1719052495057</updated>
+    </task>
+    <task id="LOCAL-00030" summary="QAQ">
+      <option name="closed" value="true" />
+      <created>1719053560556</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1719053560556</updated>
+    </task>
+    <task id="LOCAL-00031" summary="QAQ">
+      <option name="closed" value="true" />
+      <created>1719054710719</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1719054710719</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,9 +341,9 @@
     <MESSAGE value="試試3" />
     <MESSAGE value="A?" />
     <MESSAGE value="A" />
-    <MESSAGE value="QAQ" />
     <MESSAGE value="QAQ 2" />
     <MESSAGE value="QAQ1" />
-    <option name="LAST_COMMIT_MESSAGE" value="QAQ1" />
+    <MESSAGE value="QAQ" />
+    <option name="LAST_COMMIT_MESSAGE" value="QAQ" />
   </component>
 </project>
