@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="Curriculum Vitae2">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/static.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Chawol319.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/CAT4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/CAT5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/CAt3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cat2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/o1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多１.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多３.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多４.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多５.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多６.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/多多７.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2i6UFNbu3H26xZe0dbTBwLOQTLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="" />
+      <created>1718810418328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718810418328</updated>
+      <workItem from="1718810419574" duration="627000" />
+      <workItem from="1718811072239" duration="17000" />
+      <workItem from="1718881665352" duration="17000" />
+      <workItem from="1719032573567" duration="2627000" />
+      <workItem from="1719035245813" duration="342000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <option name="closed" value="true" />
+      <created>1718810580475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718810580475</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Curriculum Vitae">
+      <option name="closed" value="true" />
+      <created>1719033758486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719033758486</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Curriculum Vitae">
+      <option name="closed" value="true" />
+      <created>1719034075510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719034075510</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Curriculum Vitae">
+      <option name="closed" value="true" />
+      <created>1719034174807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719034174807</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Curriculum Vitae">
+      <option name="closed" value="true" />
+      <created>1719034244888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719034244888</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Curriculum Vitae2">
+      <option name="closed" value="true" />
+      <created>1719035061235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719035061236</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <MESSAGE value="Curriculum Vitae" />
+    <MESSAGE value="Curriculum Vitae2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curriculum Vitae2" />
+  </component>
+</project>
