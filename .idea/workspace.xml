@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="Curriculum Vitae2">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/static.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Chawol319.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/animation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fullsize/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/thumbnails/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/CAT4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/CAT5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/CAt3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cat2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/o1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多１.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多３.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多４.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多５.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多６.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/多多７.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
-    </list>
+    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="打掉重弄" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +61,7 @@
       <workItem from="1718811072239" duration="17000" />
       <workItem from="1718881665352" duration="17000" />
       <workItem from="1719032573567" duration="2627000" />
-      <workItem from="1719035245813" duration="342000" />
+      <workItem from="1719035245813" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -164,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719035061236</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="打掉重弄">
+      <option name="closed" value="true" />
+      <created>1719035628347</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719035628347</updated>
+    </task>
+    <task id="LOCAL-00008" summary="打掉重弄">
+      <option name="closed" value="true" />
+      <created>1719035640688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719035640688</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +137,7 @@
     <MESSAGE value="a" />
     <MESSAGE value="Curriculum Vitae" />
     <MESSAGE value="Curriculum Vitae2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curriculum Vitae2" />
+    <MESSAGE value="打掉重弄" />
+    <option name="LAST_COMMIT_MESSAGE" value="打掉重弄" />
   </component>
 </project>
