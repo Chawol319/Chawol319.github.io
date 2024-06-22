@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="A">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="78150b1e-940d-4664-933e-8b280e1a234f" name="Changes" comment="QAQ1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +68,7 @@
       <workItem from="1719032573567" duration="2627000" />
       <workItem from="1719035245813" duration="11927000" />
       <workItem from="1719048524703" duration="25000" />
-      <workItem from="1719048628068" duration="1014000" />
+      <workItem from="1719048628068" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -233,7 +230,55 @@
       <option name="project" value="LOCAL" />
       <updated>1719048679946</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="QAQ">
+      <option name="closed" value="true" />
+      <created>1719049722330</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719049722330</updated>
+    </task>
+    <task id="LOCAL-00022" summary="QAQ 2">
+      <option name="closed" value="true" />
+      <created>1719049793245</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719049793245</updated>
+    </task>
+    <task id="LOCAL-00023" summary="QAQ1">
+      <option name="closed" value="true" />
+      <created>1719049833000</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719049833000</updated>
+    </task>
+    <task id="LOCAL-00024" summary="QAQ1">
+      <option name="closed" value="true" />
+      <created>1719049871046</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719049871046</updated>
+    </task>
+    <task id="LOCAL-00025" summary="QAQ1">
+      <option name="closed" value="true" />
+      <created>1719049929145</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719049929145</updated>
+    </task>
+    <task id="LOCAL-00026" summary="QAQ1">
+      <option name="closed" value="true" />
+      <created>1719049964130</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1719049964130</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +296,9 @@
     <MESSAGE value="試試3" />
     <MESSAGE value="A?" />
     <MESSAGE value="A" />
-    <option name="LAST_COMMIT_MESSAGE" value="A" />
+    <MESSAGE value="QAQ" />
+    <MESSAGE value="QAQ 2" />
+    <MESSAGE value="QAQ1" />
+    <option name="LAST_COMMIT_MESSAGE" value="QAQ1" />
   </component>
 </project>
